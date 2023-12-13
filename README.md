@@ -10,6 +10,6 @@
 5. From Publish button, "Import from Git"
 6. Paste in your repo URL
     In this case, `https://github.com/ryder-cobean-nih/nih_niaid_posit_git_backed_deployment_demo`
-    
+
 
 
